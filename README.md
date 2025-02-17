@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Panduga MaheswarReddy</h1>
 <h3 align="center">A full-stack developer with a love for building dynamic web applications, specializing in MERN Stack, cloud integrations, and scalable solutions.</h3>
 
+
+
+
+
+
+
 <p align="left"> <a href="https://twitter.com/pmaheswar43013" target="blank"><img src="https://img.shields.io/twitter/follow/pmaheswar43013?logo=twitter&style=for-the-badge" alt="pmaheswar43013" /></a> </p>
 
 - 🌱 I’m currently learning *Machine learinng*
