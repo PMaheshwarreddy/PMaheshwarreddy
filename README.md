@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/pmaheswar43013" target="blank"><img src="https://img.shields.io/twitter/follow/pmaheswar43013?logo=twitter&style=for-the-badge" alt="pmaheswar43013" /></a> </p>
 
-- 🌱  *Machine learinng*
 
 - 📫 How to reach me *panduga.maheswarreddy12@gmail.com*
 
