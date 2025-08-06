@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Panduga MaheswarReddy</h1>
 <h3 align="center">
   A full-stack developer with a love for building dynamic web applications, specializing in MERN Stack, 
-  cloud integrations, scalable solutions, and Machine Learning.
+  cloud integrations, scalable solutions, Gen AI and Machine Learning.
 </h3>
 
 
